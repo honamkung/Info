@@ -2,23 +2,17 @@
 layout: default
 title: Main
 ---
-# **Jaehoon Lee**
+# **Ho Namkung**
 
 <img align="right" style="float:center;padding:10px;" width="200" src="/image/image.jpeg">
 
 Google Research, Brain Team
 
-1600 Amphitheatre Parkway  
-attn: jaehlee  
-Mountain View, CA, 94043  
+Johns Hopkins Medicine
+Meyer 4-148, 600 North Wolfe Street, Baltimore, MD 21287
+Email: hnamkun1@jhmi.edu | namkungho87@gmail.com
 
-**E-Mail**: jaehlee at google dot com
-
-[[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
-
-**Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
-
-
+/#
 I am a Senior Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
 
