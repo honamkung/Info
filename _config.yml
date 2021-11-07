@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# basic options
+title: Ho Namkung
+author: Ho Namkung
+email: namkungho87@gmail.com  
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
