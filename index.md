@@ -1,5 +1,3 @@
-## Ho Namkung
-
 Google Research, Brain Team
 
 1600 Amphitheatre Parkway
