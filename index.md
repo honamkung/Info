@@ -1,18 +1,14 @@
-Google Research, Brain Team
+# Ho Namkung 
 
-1600 Amphitheatre Parkway
-attn: jaehlee
-Mountain View, CA, 94043
+Johns Hopkins Medicine
+Meyer 4-148, 600 North Wolfe Street, Baltimore, MD 21287
 
-E-Mail: jaehlee at google dot com
+Email: hnamkun1@jhmi.edu or namkungho87@gmail.com
 
-[LinkedIn], [Twitter]
 
-Curriculum Vitae: CV
 
-I am a Senior Research Scientist at Google Brain Team working on scientific understanding of deep neural networks. I was in second-year cohort of the AI Residency program.
 
-Before joining Google in 2017, my main research focus was on theoretical high-energy physics. I was a postdoctoral researcher in the Department of Physics & Astronomy at University of British Columbia (UBC) in the String Theory Group. Before that, I completed my PhD in Center for Theoretical Physics (CTP) at MIT working on theoretical physics.
+I am a PhD candidate at 
 
 
 
