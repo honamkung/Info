@@ -1,11 +1,13 @@
 # basic options
 title: Ho Namkung
-author: Ho Namkung
 email: namkungho87@gmail.com  
-description: Biomedical Engineer
+description: Biomedical Engineer and Neuroscientist
 googlescholar_username: Ho Namkung
 twitter_username: Ho_Namkung
 github_username:  honamkung
+permalink: /blog/ #/cv/research/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
