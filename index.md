@@ -6,8 +6,6 @@ title: Main
 
 <img align="right" style="float:center;padding:10px;" width="200" src="/image/image.jpeg">
 
-Google Research, Brain Team
-
 Johns Hopkins Medicine
 Meyer 4-148, 600 North Wolfe Street, Baltimore, MD 21287
 Email: hnamkun1@jhmi.edu | namkungho87@gmail.com
