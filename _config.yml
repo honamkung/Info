@@ -1,6 +1,10 @@
 # basic options
 title: Ho Namkung
-author: Main
+author: Ho Namkung
+email: namkungho87@gmail.com  
+description: Biomedical Engineer
+twitter_username: Ho_Namkung
+github_username:  honamkung
 
 # Build settings
 markdown: kramdown
